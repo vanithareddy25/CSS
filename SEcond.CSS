@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY CSS FIRST PROGRAM</title>
+    <style>
+        body
+        {
+        background-color:black;
+        }
+        p{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 20px;
+            color:azure;
+            text-transform: capitalize;
+        }
+        
+        img
+        {
+            clip-path:circle(200px);
+            
+    ;
+        }
+        h1{
+            color: chartreuse;
+            text-align: center;
+            align-self:center;
+
+        }
+      
+
+    </style>
+</head>
+<body>
+    <H1>Tribute to Great Bhagat Singh</H1>
+    <img src="https://www.emom.in/wp-content/uploads/2020/02/Bhagat-Singh.jpg" alt="Bhagat-Singh"width="500" height="600">
+    <a href="https://www.emom.in/wp-content/uploads/2020/02/Bhagat-Singh.jpg">Bhagath Bhagat-Singh</a>
+    Bhagat Singh (27 September 1907[1] – 23 March 1931) was a charismatic[3] Indian revolutionary[4] who participated in the mistaken murder of a junior British police officer[5] in what was to be retaliation for the death of an Indian nationalist.[6] He later took part in a largely symbolic bombing of the Central Legislative Assembly in Delhi and a hunger strike in jail, which—on the back of sympathetic coverage in Indian-owned newspapers—turned him into a household name in the Punjab region, and after his execution at age 23 into a martyr and folk hero in Northern India.[7] Borrowing ideas from Bolshevism and anarchism,[8] he electrified a growing militancy in India in the 1930s, and prompted urgent introspection within the Indian National Congress's nonviolent but eventually successful campaign for India's independence.[9]
+
+
+Carden-Noad presented the government's charges of conducting robberies, and the illegal acquisition of arms and ammunition among others.[43] The evidence of G. T. H. Hamilton Harding, the Lahore superintendent of police, shocked the court. He stated that he had filed the first information report against the accused under specific orde
+    <P><strong> ipsum, dolor sit amet consectetur adipisicing elit. Pariatur aliquid unde non quo a laboriosam eos, qui ab dicta mollitia atque ducimus eaque, numquam voluptates nostrum accusantium error alias corrupti?</strong></P>
+<P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi, inventore! Praesentium soluta at repellat atque animi nulla laborum commodi assumenda, quam provident illo ex odit enim eaque tempora natus nihil et facilis deleniti cupiditate, iusto non velit. Hic dolores enim odio itaque eius minima, vero placeat mollitia tenetur facere! Sequi animi aliquid ducimus minus placeat debitis iure ab similique iste voluptatum minima laborum earum officia, eum accusamus. Quidem asperiores repudiandae ratione officiis excepturi tenetur nisi eveniet officia, vitae fugiat ullam odit culpa voluptas quos maiores veniam facilis ad quae ex! Fugiat et rerum deleniti voluptatum deserunt debitis obcaecati unde neque.</P>
+
+<p>
+     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto alias excepturi, iste consectetur maxime eaque tenetur necessitatibus voluptate a harum ad rem porro? Voluptatum porro quas harum corrupti, laudantium dolorem id odio dolores quisquam maiores? Facere dicta consectetur reiciendis rem dolorem voluptatem aut placeat, porro quae animi officia provident et adipisci deserunt exercitationem obcaecati nulla numquam ipsa cupiditate ex. Obcaecati commodi optio vero corrupti quaerat blanditiis itaque facilis autem beatae quasi nisi omnis reiciendis cupiditate officiis ex minus et molestias repellat a, sequi molestiae quibusdam deserunt unde voluptatem. Dolor officia voluptate nesciunt similique quod, velit minus! Ipsam consectetur dolore officiis!</p>
+</p>
+<p>
+    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat fuga expedita, dolor quo unde doloremque voluptatem sequi debitis architecto dolores deserunt labore veritatis quaerat suscipit dolore necessitatibus et porro impedit?
+    </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure eaque tempore distinctio. Perspiciatis illum a iusto dicta in corporis fugiat amet repellendus aliquam beatae laudantium earum, <p></p>voluptatibus quae maxime architecto sunt, ducimus quisquam officiis odio. Minima omnis obcaecati aspernatur commodi iure esse maxime illum, laudantium voluptates explicabo repellat ipsa eaque placeat. Non, natus eaque repellat<p> p
+
+    </p>
+</p>
+
+</body>
+</html>
